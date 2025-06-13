@@ -178,3 +178,5 @@ The application follows a multi-service architecture:
 - The application uses a hardcoded password for the BaseManager server
 - No user authentication is implemented in this version
 - Data is stored locally in the file system
+
+Developed by [extrawest](https://extrawest.com/). Software development company
